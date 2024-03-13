@@ -43,11 +43,10 @@ For more information read up here:
 
 [Read more here: Reporting bugs and support](https://retrodeck.readthedocs.io/en/latest/wiki_bugs/report-bugs/)
 
-
 ### The RetroDECK community:
 [Website](https://retrodeck.net) <br/>
 [Wiki](https://github.com/XargonWan/RetroDECK/wiki) <br/>
-[Discord](https://discord.gg/Dz3szYsP8g)<br/>
+[Discord](https://discord.gg/WDc5C9YWMx)<br/>
 [Lemmy](https://lemmy.zip/c/retrodeck)<br/>
 [Subreddit](https://www.reddit.com/r/retrodeck)
 
